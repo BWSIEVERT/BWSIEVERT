@@ -2,7 +2,9 @@
 
 My name is Brandon! I'm a junior developer armed with knowledge in front and back-end web application management.
 
+<h1 align='center'>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+</h1>
 
 <table align='center'>
   <tbody>
