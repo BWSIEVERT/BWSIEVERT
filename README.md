@@ -4,7 +4,7 @@ My name is Brandon! I'm a junior developer armed with knowledge in front and bac
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
+<table align='center'>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
