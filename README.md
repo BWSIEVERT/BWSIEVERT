@@ -1,9 +1,13 @@
-## Welcome 👋
+<h1 align='center'>
+Welcome 👋
+</h1>
 
+<p align='center'>
 My name is Brandon! I'm a junior developer armed with knowledge in front and back-end web application management.
+</p>
 
 <h1 align='center'>
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+My Tech Stack
 </h1>
 
 <table align='center'>
