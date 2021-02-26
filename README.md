@@ -1,6 +1,7 @@
 ### Welcome 👋
 My name is Brandon! I'm a junior developer armed with knowledge in front and back-end web application management.
 
+<table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
