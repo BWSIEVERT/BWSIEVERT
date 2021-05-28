@@ -3,7 +3,7 @@ Welcome 👋
 </h1>
 
 <p align='center'>
-My name is Brandon! I'm Full Stack Developer armed with knowledge in front and back-end web application management.
+My name is Brandon! I'm Full Stack Developer armed with knowledge in front and back-end web application development.
 </p>
 
 <h1 align='center'>
